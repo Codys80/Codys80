@@ -1,6 +1,6 @@
 <h1 align="center">Greetings 💥I'm Bartosz💥</h1>
 <h3 align="center">Small programer from small country</h3>
-
+<h5 align="center">📖Still a learner🏫</h5>
 
 
 - 📋 To do list:  *learn php/java*
