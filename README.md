@@ -7,7 +7,7 @@
 
 - 📫 Contact mail: *bartolosemolo@gmail.com*
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Codys80&label=Profile%20views&color=0e75b6&style=flat" alt = Ccodys80"/></p
 <h3 align="left">My languages:</h3>
 <p align="left">   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
