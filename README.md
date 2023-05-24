@@ -3,7 +3,7 @@
 <h5 align="center">📖Still a learner🏫</h5>
 
 
-- 📋 To do list:  *learn php/java*
+- 📋 To do list:  *learn python*
 
 - 📫 Contact mail: *bartolosemolo@gmail.com*
 
