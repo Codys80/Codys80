@@ -1,14 +1,17 @@
-<div align="center">
+<div align="left">
   <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFwanNrbHVidmxwZDM2NmJkM2c1aG12Y3hjb20zajRudWE4YzFmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif"  />
 </div>
 
 ###
+
 <div align="center">
 </div>
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Codys80&label=Profile%20views&color=0e75b6&style=flat" alt = Ccodys80"/></p
+<div align="center">
+  <img src="https://profile-counter.glitch.me/CodyS80/count.svg?"  />
+</div>
 
 ###
 
